@@ -1,0 +1,1 @@
+import{Sn as e,Z as t,kt as n,ot as r,pt as i,ut as a}from"./DGg6ykMV.js";var o={key:1,class:`rounded bg-amber-100 px-1 text-amber-900`},s=Object.assign(i({__name:`LegalPlaceholder`,props:{value:{},label:{}},setup(i){return(s,c)=>i.value?(n(),r(t,{key:0},[a(e(i.value),1)],64)):(n(),r(`mark`,o,`[`+e(i.label)+`]`,1))}}),{__name:`LegalPlaceholder`});export{s as t};

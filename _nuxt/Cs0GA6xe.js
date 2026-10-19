@@ -1,0 +1,1 @@
+import{c as e,o as t}from"./DGg6ykMV.js";import{a as n}from"#entry";var r=t(async t=>{let{loggedIn:r,fetch:i}=n();if(r.value||await i(),!r.value)return e({path:`/admin/login`,query:t.fullPath===`/admin`?{}:{weiter:t.fullPath}})});export{r as default};
